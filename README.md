@@ -1,4 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ACA28&center=true&vCenter=true&multiline=true&width=435&height=70&lines=Hello+World%2C+I'm+Jein+;I'm+a+junior+frontend-developer)](https://git.io/typing-svg)
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?  font=Fira+Code&size=30&pause=1000&color=2ACA28&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hello+World%2C+I'm+Jein+;I'm+a+junior+frontend-developer" alt="Typing SVG" /></a>
+</div>
+
+---
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
