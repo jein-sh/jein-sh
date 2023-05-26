@@ -6,6 +6,8 @@
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600" height="300"/>
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jein-sh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
